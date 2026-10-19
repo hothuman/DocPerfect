@@ -1,0 +1,34 @@
+DOCPERFECT — END USER LICENSE TERMS (DRAFT FOR OWNER REVIEW)
+Version 1.0, 2026
+
+1. Subject to applicable law and these terms, Rostislav Gaponenko (Гапоненко Ростислав)
+grants the recipient of an authentic, officially distributed DocPerfect
+binary a non-exclusive, non-transferable, royalty-free permission to install
+and run the unmodified software on computers under the recipient's control,
+for personal, educational and internal professional use.
+
+2. DocPerfect's original source code and branding remain proprietary. These
+terms do not license publication, distribution of modified application
+binaries, sublicensing, commercial resale of copies, or use of the DocPerfect
+name/logo for another product without permission of the rights holder.
+
+3. The restrictions in clause 2 do not restrict rights granted to users by
+mandatory applicable law, by GitHub's applicable terms, or by the separate
+licenses of bundled third-party components. In particular, users retain all
+rights under the LGPL, GPL, MIT, BSD, Python and other third-party licenses.
+Nothing in these terms prohibits lawful debugging, modification or replacement
+of LGPL-covered Qt libraries, or lawful reverse engineering for that purpose.
+
+4. DocPerfect is supplied without warranty to the extent permitted by
+applicable law. This does not limit non-waivable consumer rights or statutory
+liability. Users should independently review consequential edits to DOCX.
+
+5. The software is provided locally. A separate AI agent connected over MCP
+may transfer extracted text to an external model provider. Users control their
+agent settings and grant access only to trusted folders.
+
+6. Copies of applicable third-party licenses and notices are included with
+the distribution or provided with the relevant third-party components.
+
+These draft terms require approval by the named rights holder and
+review for applicable jurisdictions before public release.

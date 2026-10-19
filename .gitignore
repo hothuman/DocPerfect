@@ -1,0 +1,19 @@
+# Only documentation/assets are allowed in this PUBLIC repo.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.py
+*.pyc
+*.spec
+*.docx
+*.zip
+*.deb
+*.exe
+*.tar.gz
+__pycache__/
+.venv/
+dist/
+build/

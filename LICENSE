@@ -1,0 +1,27 @@
+DocPerfect — Proprietary Source Code Notice
+
+Copyright © 2026 Rostislav Gaponenko (Гапоненко Ростислав). All rights reserved.
+
+The source code, original application design, documentation, and original
+brand assets of DocPerfect are proprietary, except for material identified
+as belonging to third parties.
+
+Publication of these files in a publicly accessible repository does not
+constitute an open-source license. No permission to reproduce, modify,
+redistribute, sublicense, or incorporate the proprietary material into other
+products is granted by this notice.
+
+The above is subject to mandatory legal exceptions and applicable GitHub
+Terms of Service. Third-party packages bundled with or required by DocPerfect
+remain governed by their own licenses, which are not restricted by this notice.
+See THIRD_PARTY_NOTICES.md and docs/LICENSE_COMPLIANCE.md.
+
+The permissions granted to end users of officially distributed DocPerfect
+binaries are stated separately in EULA.txt.
+
+Before any public distribution, the named rights holder should verify their
+chain of title for each project contribution and brand asset and obtain any
+necessary written assignments or licenses. This notice itself does not
+transfer rights from any third party to the named person.
+
+Contact for additional permissions: via the repository owner on GitHub.
